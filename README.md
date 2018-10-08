@@ -1,7 +1,7 @@
 # Iterating Over Hashes With `#each`
 ## Overview
 
-We'll use iteration to access and manipulate data from hashes.
+ We'll use iteration to access and manipulate data from hashes.
 
 ## Objectives
 
